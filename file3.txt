@@ -1,2 +1,2 @@
 This is file3
-This is fir git show
+This is the new line in the file
